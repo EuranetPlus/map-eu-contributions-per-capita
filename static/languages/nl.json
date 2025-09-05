@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoe hoog zijn de bijdragen aan de EU-begroting in 2024?",
+  "subtitle": "Vanaf 2024 bedraagt de maandelijkse gemiddelde bijdrage aan de EU-begroting maar liefst 25,40 euro per persoon.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De begroting van de Europese Unie voor het kalenderjaar 2024 bedraagt € 143 miljard. Een sterke economie en een lagere totale bevolking leiden tot een hoge bijdrage per persoon per maand.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Het Instituut van Chartered Accountants in Engeland en Wales",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "€ per persoon per maand",
   "tooltipExtraInfoLabel": "Klik hier"
 }
