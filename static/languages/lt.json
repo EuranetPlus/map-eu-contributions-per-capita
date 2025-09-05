@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kokio dydžio įmokos į ES biudžetą bus mokamos 2024 m.?",
+  "subtitle": "Nuo 2024 m. vidutinis mėnesinis įnašas į ES biudžetą siekia net 25,40 EUR vienam asmeniui.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Europos Sąjungos 2024 kalendorinių metų biudžetas siekia 143 mlrd. eurų. Stipri ekonomika ir mažesnis bendras gyventojų skaičius lemia dideles mėnesines įmokas vienam asmeniui.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Anglijos ir Velso atestuotų buhalterių institutas",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "€ vienam asmeniui per mėnesį",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
