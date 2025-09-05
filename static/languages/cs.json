@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Jak vysoké jsou příspěvky do rozpočtu EU v roce 2024?",
+  "subtitle": "V roce 2024 dosahoval průměrný měsíční příspěvek do rozpočtu EU až 25,40 € na osobu.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Rozpočet Evropské unie na kalendářní rok 2024 činí 143 miliard eur. Silná ekonomika a nižší celkový počet obyvatel vedou k vysokému příspěvku na osobu za měsíc.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Institut autorizovaných účetních v Anglii a Walesu",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
+  "customUnitLabel": "€ na osobu a měsíc",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
