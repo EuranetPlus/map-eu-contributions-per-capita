@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie hoch sind die Beiträge zum EU-Haushalt im Jahr 2024?",
+  "subtitle": "Ab 2024 beträgt der monatliche Durchschnittsbeitrag zum EU-Haushalt sogar 25,40 € pro Person.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Der Haushalt der Europäischen Union für das Kalenderjahr 2024 beträgt 143 Milliarden Euro. Eine starke Wirtschaft und eine geringere Gesamtbevölkerung führen zu einem hohen monatlichen Beitrag pro Kopf.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
+  "textSource": "Das Institut der Wirtschaftsprüfer in England und Wales",
   "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "€ pro Person und Monat",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
