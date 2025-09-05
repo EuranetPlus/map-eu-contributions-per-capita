@@ -1,13 +1,12 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "How high are the contributions to the EU budget in 2024?",
+  "subtitle": "As of 2024 the monthly average contribution to the EU's budget is as high as 25.40€ per person.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "The European Union’s Budget for the 2024 calendar year amounts to €143 billion. A strong economy and a lower total population leads to a high per person contribution per month.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "The Institute of Chartered Accountants in England and Wales",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
+  "customUnitLabel": "€ per person per month",
   "tooltipExtraInfoLabel": "Click here"
 }
