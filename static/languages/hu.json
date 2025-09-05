@@ -1,13 +1,12 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Milyen magasak lesznek a hozzájárulások az EU költségvetésébe 2024-ben?",
+  "subtitle": "2024-től az EU költségvetéséhez való havi átlagos hozzájárulás fejenként elérte a 25,40 eurót.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Az Európai Unió 2024-es naptári évre szóló költségvetése 143 milliárd eurót tesz ki. Az erős gazdaság és az alacsonyabb összlakosság magas havi egy főre jutó hozzájárulást eredményez.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Angliai és Walesi Okleveles Könyvvizsgálók Intézete",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
+  "customUnitLabel": "€/fő/hónap",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
