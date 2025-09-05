@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur höga är bidragen till EU-budgeten år 2024?",
+  "subtitle": "Från och med 2024 är det månatliga genomsnittliga bidraget till EU:s budget så högt som 25,40 euro per person.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Europeiska unionens budget för kalenderåret 2024 uppgår till 143 miljarder euro. En stark ekonomi och en lägre totalbefolkning leder till ett högt bidrag per person och månad.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Institutet för auktoriserade revisorer i England och Wales",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "€ per person och månad",
   "tooltipExtraInfoLabel": "Klicka här"
 }
