@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik lielas ir iemaksas ES budžetā 2024. gadā?",
+  "subtitle": "Sākot ar 2024. gadu, vidējā mēneša iemaksa ES budžetā sasniedza pat 25,40 eiro uz vienu cilvēku.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Eiropas Savienības 2024. kalendārā gada budžets ir 143 miljardi eiro. Spēcīga ekonomika un mazāks kopējais iedzīvotāju skaits rada augstas iemaksas uz vienu iedzīvotāju mēnesī.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Anglijas un Velsas zvērinātu grāmatvežu institūts",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "€ vienai personai mēnesī",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
