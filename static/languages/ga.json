@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé chomh hard is atá na ranníocaíochtaí chuig buiséad an AE in 2024?",
+  "subtitle": "Ó 2024 i leith, is é €25.40 an ranníocaíocht mhíosúil ar an meán chuig buiséad an AE in aghaidh an duine.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Is ionann Buiséad an Aontais Eorpaigh don bhliain féilire 2024 agus €143 billiún. Mar thoradh ar gheilleagar láidir agus daonra iomlán níos ísle, bíonn ranníocaíocht ard in aghaidh an duine in aghaidh na míosa.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Institiúid na gCuntasóirí Cairte i Sasana agus sa Bhreatain Bheag",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "€ in aghaidh an duine in aghaidh na míosa",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
