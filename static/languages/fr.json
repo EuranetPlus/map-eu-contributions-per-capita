@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "À combien s’élèveront les contributions au budget de l’UE en 2024 ?",
+  "subtitle": "En 2024, la contribution mensuelle moyenne au budget de l'UE s'élève à 25,40 € par personne.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Le budget de l'Union européenne pour l'année civile 2024 s'élève à 143 milliards d'euros. Une économie forte et une population totale réduite entraînent une contribution mensuelle élevée par personne.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "L'Institut des experts-comptables d'Angleterre et du Pays de Galles",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "€ par personne et par mois",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
