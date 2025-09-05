@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jaka będzie wysokość składek do budżetu UE w 2024 roku?",
+  "subtitle": "Od 2024 r. średnia miesięczna składka do budżetu UE wynosi aż 25,40 € na osobę.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Budżet Unii Europejskiej na rok kalendarzowy 2024 wynosi 143 miliardy euro. Silna gospodarka i niższa populacja przekładają się na wysoki miesięczny wkład na osobę.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Instytut Biegłych Rewidentów w Anglii i Walii",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "€ za osobę miesięcznie",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
