@@ -1,12 +1,12 @@
 {
-  "title": "À combien s’élèveront les contributions au budget de l’UE en 2024 ?",
-  "subtitle": "En 2024, la contribution mensuelle moyenne au budget de l'UE s'élève à 25,40 € par personne.",
+  "title": "Quel sera le montant des contributions au budget de l'UE en 2025 ?",
+  "subtitle": "En 2025, les contributions budgétaires des pays de l'UE s'élevaient en moyenne à 28,54 € par personne et par mois.",
   "textNoteDescription": "Note",
-  "textNote": "Le budget de l'Union européenne pour l'année civile 2024 s'élève à 143 milliards d'euros. Une économie forte et une population totale réduite entraînent une contribution mensuelle élevée par personne.",
+  "textNote": "Les chiffres indiquent la contribution mensuelle brute au budget de l'UE par habitant, calculée à partir du budget final amendé de l'UE pour 2025 et des chiffres de population d'Eurostat au 1er janvier 2025.",
   "textSourceDescription": "Source",
-  "textSource": "L'Institut des experts-comptables d'Angleterre et du Pays de Galles",
+  "textSource": "Conseil de l'UE (2026)",
   "linkDataAccessDescription": "Accéder aux données",
   "legend1": "Aucune donnée disponible",
-  "customUnitLabel": "€ par personne et par mois",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "tooltipExtraInfoLabel": "Cliquez ici",
+  "customUnitLabel": "€ par personne et par mois"
 }

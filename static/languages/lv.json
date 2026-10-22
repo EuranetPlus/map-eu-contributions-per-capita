@@ -1,12 +1,12 @@
 {
-  "title": "Cik lielas ir iemaksas ES budžetā 2024. gadā?",
-  "subtitle": "Sākot ar 2024. gadu, vidējā mēneša iemaksa ES budžetā sasniedza pat 25,40 eiro uz vienu cilvēku.",
+  "title": "Cik lielas ir iemaksas ES budžetā 2025. gadā?",
+  "subtitle": "2025. gadā ES valstu budžeta iemaksas bija vidēji 28,54 eiro uz vienu personu mēnesī.",
   "textNoteDescription": "Piezīme",
-  "textNote": "Eiropas Savienības 2024. kalendārā gada budžets ir 143 miljardi eiro. Spēcīga ekonomika un mazāks kopējais iedzīvotāju skaits rada augstas iemaksas uz vienu iedzīvotāju mēnesī.",
+  "textNote": "Skaitļi parāda ES bruto budžeta mēneša iemaksu uz vienu iedzīvotāju, kas aprēķināta, izmantojot galīgo grozīto ES budžetu 2025. gadam un Eurostat iedzīvotāju skaita datus uz 2025. gada 1. janvāri.",
   "textSourceDescription": "Avots",
-  "textSource": "Anglijas un Velsas zvērinātu grāmatvežu institūts",
+  "textSource": "ES Padome (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
   "legend1": "Dati nav pieejami",
-  "customUnitLabel": "€ vienai personai mēnesī",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
+  "customUnitLabel": "€ vienai personai mēnesī"
 }

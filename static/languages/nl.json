@@ -1,12 +1,12 @@
 {
-  "title": "Hoe hoog zijn de bijdragen aan de EU-begroting in 2024?",
-  "subtitle": "Vanaf 2024 bedraagt de maandelijkse gemiddelde bijdrage aan de EU-begroting maar liefst 25,40 euro per persoon.",
+  "title": "Hoe hoog zullen de bijdragen aan de EU-begroting in 2025 zijn?",
+  "subtitle": "In 2025 bedroegen de begrotingsbijdragen van de EU-landen gemiddeld € 28,54 per persoon per maand.",
   "textNoteDescription": "Opmerking",
-  "textNote": "De begroting van de Europese Unie voor het kalenderjaar 2024 bedraagt € 143 miljard. Een sterke economie en een lagere totale bevolking leiden tot een hoge bijdrage per persoon per maand.",
+  "textNote": "De cijfers tonen de bruto maandelijkse bijdrage aan de EU-begroting per inwoner, berekend op basis van de definitieve, gewijzigde EU-begroting voor 2025 en de bevolkingscijfers van Eurostat per 1 januari 2025.",
   "textSourceDescription": "Bron",
-  "textSource": "Het Instituut van Chartered Accountants in Engeland en Wales",
+  "textSource": "Raad van de EU (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
   "legend1": "Geen gegevens beschikbaar",
-  "customUnitLabel": "€ per persoon per maand",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "tooltipExtraInfoLabel": "Klik hier",
+  "customUnitLabel": "€ per persoon per maand"
 }

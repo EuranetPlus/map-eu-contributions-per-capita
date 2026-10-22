@@ -1,12 +1,12 @@
 {
-  "title": "A quanto ammontano i contributi al bilancio dell'UE nel 2024?",
-  "subtitle": "A partire dal 2024, il contributo medio mensile al bilancio dell'UE ammonta a 25,40 € a persona.",
+  "title": "A quanto ammonteranno i contributi al bilancio dell'UE nel 2025?",
+  "subtitle": "Nel 2025, i contributi al bilancio dei paesi dell'UE ammontavano in media a 28,54 euro pro capite al mese.",
   "textNoteDescription": "Nota",
-  "textNote": "Il bilancio dell'Unione Europea per l'anno solare 2024 ammonta a 143 miliardi di euro. Un'economia forte e una popolazione totale inferiore comportano un elevato contributo pro capite mensile.",
+  "textNote": "Le cifre mostrano il contributo mensile lordo del bilancio UE per abitante, calcolato utilizzando il bilancio UE definitivo modificato per il 2025 e i dati demografici di Eurostat al 1° gennaio 2025.",
   "textSourceDescription": "Fonte",
-  "textSource": "L'Istituto dei Dottori Commercialisti in Inghilterra e Galles",
-  "linkDataAccessDescription": "Accedi ai dati",
+  "textSource": "Consiglio dell'UE (2026)",
+  "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
-  "customUnitLabel": "€ a persona al mese",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "tooltipExtraInfoLabel": "clicca qui",
+  "customUnitLabel": "€ a persona al mese"
 }

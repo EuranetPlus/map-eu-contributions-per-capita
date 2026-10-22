@@ -1,12 +1,12 @@
 {
-  "title": "Qual será o valor das contribuições para o orçamento da UE em 2024?",
-  "subtitle": "Em 2024, a contribuição média mensal para o orçamento da UE chegou a 25,40€ por pessoa.",
+  "title": "Qual será o montante das contribuições para o orçamento da UE em 2025?",
+  "subtitle": "Em 2025, as contribuições orçamentárias dos países da UE foram, em média, de 28,54 euros por pessoa por mês.",
   "textNoteDescription": "Observação",
-  "textNote": "O Orçamento da União Europeia para o ano civil de 2024 é de € 143 bilhões. Uma economia forte e uma população total menor resultam em uma alta contribuição per capita mensal.",
+  "textNote": "Os números mostram a contribuição bruta mensal do orçamento da UE por habitante, calculada usando o orçamento final revisado da UE para 2025 e os dados populacionais do Eurostat referentes a 1 de janeiro de 2025.",
   "textSourceDescription": "Fonte",
-  "textSource": "Instituto de Contadores Autorizados da Inglaterra e do País de Gales",
+  "textSource": "Conselho da UE (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "legend1": "Nenhum dado disponível",
-  "customUnitLabel": "€ por pessoa por mês",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "legend1": "Não há dados disponíveis.",
+  "tooltipExtraInfoLabel": "Clique aqui",
+  "customUnitLabel": "€ por pessoa por mês"
 }

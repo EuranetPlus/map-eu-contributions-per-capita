@@ -1,12 +1,12 @@
 {
-  "title": "Kako visoki so prispevki v proračun EU v letu 2024?",
-  "subtitle": "Od leta 2024 je povprečni mesečni prispevek v proračun EU znašal kar 25,40 € na osebo.",
+  "title": "Kako visoki so prispevki v proračun EU v letu 2025?",
+  "subtitle": "Leta 2025 so prispevki držav EU v proračun v povprečju znašali 28,54 evra na osebo na mesec.",
   "textNoteDescription": "Opomba",
-  "textNote": "Proračun Evropske unije za koledarsko leto 2024 znaša 143 milijard evrov. Močno gospodarstvo in manjše skupno število prebivalcev pomenita visok mesečni prispevek na osebo.",
+  "textNote": "Številke prikazujejo mesečni bruto prispevek v proračun EU na prebivalca, izračunan na podlagi končnega spremenjenega proračuna EU za leto 2025 in podatkov Eurostata o prebivalstvu na dan 1. januarja 2025.",
   "textSourceDescription": "Vir",
-  "textSource": "Inštitut pooblaščenih računovodij v Angliji in Walesu",
+  "textSource": "Svet EU (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
   "legend1": "Ni na voljo podatkov",
-  "customUnitLabel": "€ na osebo na mesec",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
+  "customUnitLabel": "€ na osebo na mesec"
 }

@@ -1,12 +1,12 @@
 {
-  "title": "How high are the contributions to the EU budget in 2024?",
-  "subtitle": "As of 2024 the monthly average contribution to the EU's budget is as high as 25.40€ per person.",
+  "title": "How high are the contributions to the EU budget in 2025?",
+  "subtitle": "In 2025, EU countries' budget contributions averaged €28.54 per person per month.",
   "textNoteDescription": "Note",
-  "textNote": "The European Union’s Budget for the 2024 calendar year amounts to €143 billion. A strong economy and a lower total population leads to a high per person contribution per month.",
+  "textNote": "The figures show the monthly gross EU budget contribution per inhabitant, calculated using the final amended EU budget for 2025 and Eurostat population figures as of 1 January 2025.",
   "textSourceDescription": "Source",
-  "textSource": "The Institute of Chartered Accountants in England and Wales",
+  "textSource": "Council of the EU (2026)",
   "linkDataAccessDescription": "Access the data",
   "legend1": "No data available",
-  "customUnitLabel": "€ per person per month",
-  "tooltipExtraInfoLabel": "Click here"
+  "tooltipExtraInfoLabel": "Click here",
+  "customUnitLabel": "€ per person per month"
 }

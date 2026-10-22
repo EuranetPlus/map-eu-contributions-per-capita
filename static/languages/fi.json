@@ -1,12 +1,12 @@
 {
-  "title": "Kuinka suuria EU:n budjettiin maksettavat maksuosuudet ovat vuonna 2024?",
-  "subtitle": "Vuonna 2024 EU:n budjettiin maksettu keskimääräinen kuukausittainen maksuosuus oli jopa 25,40 euroa henkilöä kohden.",
+  "title": "Kuinka suuria EU:n budjettiin maksettavat maksuosuudet ovat vuonna 2025?",
+  "subtitle": "Vuonna 2025 EU-maiden budjettimaksut olivat keskimäärin 28,54 euroa henkilöä kohden kuukaudessa.",
   "textNoteDescription": "Huomautus",
-  "textNote": "Euroopan unionin budjetti vuodelle 2024 on 143 miljardia euroa. Vahva talous ja pienempi kokonaisväestö johtavat korkeaan kuukausittaiseen maksuosuuteen henkeä kohti.",
+  "textNote": "Luvut osoittavat EU:n kuukausittaisen bruttobudjettiosuuden asukasta kohden, joka on laskettu käyttämällä EU:n vuoden 2025 lopullista tarkistettua budjettia ja Eurostatin väestölukuja 1. tammikuuta 2025.",
   "textSourceDescription": "Lähde",
-  "textSource": "Englannin ja Walesin auktorisoitujen tilintarkastajien instituutti",
+  "textSource": "EU:n neuvosto (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
   "legend1": "Ei tietoja saatavilla",
-  "customUnitLabel": "€ henkilöä kohden kuukaudessa",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
+  "customUnitLabel": "€ henkilöä kohden kuukaudessa"
 }

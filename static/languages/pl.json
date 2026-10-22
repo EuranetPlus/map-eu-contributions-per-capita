@@ -1,12 +1,12 @@
 {
-  "title": "Jaka będzie wysokość składek do budżetu UE w 2024 roku?",
-  "subtitle": "Od 2024 r. średnia miesięczna składka do budżetu UE wynosi aż 25,40 € na osobę.",
+  "title": "Jakie będą wysokość składek do budżetu UE w 2025 roku?",
+  "subtitle": "W 2025 r. średnia składka państw UE do budżetu wynosiła 28,54 euro na osobę miesięcznie.",
   "textNoteDescription": "Notatka",
-  "textNote": "Budżet Unii Europejskiej na rok kalendarzowy 2024 wynosi 143 miliardy euro. Silna gospodarka i niższa populacja przekładają się na wysoki miesięczny wkład na osobę.",
+  "textNote": "Dane przedstawiają miesięczną składkę brutto do budżetu UE na mieszkańca, obliczoną przy użyciu ostatecznego skorygowanego budżetu UE na rok 2025 oraz danych Eurostatu dotyczących liczby ludności na dzień 1 stycznia 2025 r.",
   "textSourceDescription": "Źródło",
-  "textSource": "Instytut Biegłych Rewidentów w Anglii i Walii",
+  "textSource": "Rada UE (2026)",
   "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
-  "customUnitLabel": "€ za osobę miesięcznie",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
+  "customUnitLabel": "€ za osobę miesięcznie"
 }

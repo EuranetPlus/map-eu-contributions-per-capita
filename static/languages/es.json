@@ -1,12 +1,12 @@
 {
-  "title": "¿Cuál será el importe de las contribuciones al presupuesto de la UE en 2024?",
-  "subtitle": "A partir de 2024, la contribución media mensual al presupuesto de la UE alcanzará los 25,40 € por persona.",
+  "title": "¿A cuánto ascienden las contribuciones al presupuesto de la UE en 2025?",
+  "subtitle": "En 2025, las contribuciones presupuestarias de los países de la UE promediaron 28,54 euros por persona al mes.",
   "textNoteDescription": "Nota",
-  "textNote": "El presupuesto de la Unión Europea para el año natural 2024 asciende a 143 000 millones de euros. Una economía fuerte y una población total reducida se traducen en una elevada contribución mensual por persona.",
+  "textNote": "Las cifras muestran la contribución bruta mensual al presupuesto de la UE por habitante, calculada utilizando el presupuesto final modificado de la UE para 2025 y las cifras de población de Eurostat a 1 de enero de 2025.",
   "textSourceDescription": "Fuente",
-  "textSource": "El Instituto de Contadores Públicos de Inglaterra y Gales",
+  "textSource": "Consejo de la UE (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
   "legend1": "No hay datos disponibles",
-  "customUnitLabel": "€ por persona al mes",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "tooltipExtraInfoLabel": "haga clic aquí",
+  "customUnitLabel": "euros por persona al mes"
 }

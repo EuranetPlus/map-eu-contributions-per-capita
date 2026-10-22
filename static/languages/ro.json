@@ -1,12 +1,12 @@
 {
-  "title": "Cât de mari sunt contribuțiile la bugetul UE în 2024?",
-  "subtitle": "Începând cu 2024, contribuția medie lunară la bugetul UE este de până la 25,40 EUR pe persoană.",
+  "title": "Cât de mari sunt contribuțiile la bugetul UE în 2025?",
+  "subtitle": "În 2025, contribuțiile bugetare ale țărilor UE au fost în medie de 28,54 EUR pe persoană pe lună.",
   "textNoteDescription": "Nota",
-  "textNote": "Bugetul Uniunii Europene pentru anul calendaristic 2024 se ridică la 143 de miliarde de euro. O economie puternică și o populație totală mai mică duc la o contribuție lunară mare pe persoană.",
+  "textNote": "Cifrele arată contribuția brută lunară la bugetul UE pe locuitor, calculată pe baza bugetului final modificat al UE pentru 2025 și a cifrelor Eurostat privind populația la 1 ianuarie 2025.",
   "textSourceDescription": "Sursă",
-  "textSource": "Institutul Contabililor Autorizați din Anglia și Țara Galilor",
+  "textSource": "Consiliul UE (2026)",
   "linkDataAccessDescription": "Accesați datele",
   "legend1": "Nu sunt disponibile date",
-  "customUnitLabel": "€ pe persoană pe lună",
-  "tooltipExtraInfoLabel": "Click aici"
+  "tooltipExtraInfoLabel": "Click aici",
+  "customUnitLabel": "€ pe persoană pe lună"
 }

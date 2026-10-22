@@ -1,12 +1,12 @@
 {
-  "title": "Milyen magasak lesznek a hozzájárulások az EU költségvetésébe 2024-ben?",
-  "subtitle": "2024-től az EU költségvetéséhez való havi átlagos hozzájárulás fejenként elérte a 25,40 eurót.",
+  "title": "Milyen magasak lesznek a hozzájárulások az EU költségvetésébe 2025-ben?",
+  "subtitle": "2025-ben az uniós országok költségvetési hozzájárulása átlagosan havi 28,54 eurót tett ki személyenként.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "Az Európai Unió 2024-es naptári évre szóló költségvetése 143 milliárd eurót tesz ki. Az erős gazdaság és az alacsonyabb összlakosság magas havi egy főre jutó hozzájárulást eredményez.",
+  "textNote": "Az adatok a havi bruttó uniós költségvetési hozzájárulást mutatják lakosonként, amelyet a 2025-ös végleges módosított uniós költségvetés és az Eurostat 2025. január 1-jei népességi adatai alapján számítottak ki.",
   "textSourceDescription": "Forrás",
-  "textSource": "Angliai és Walesi Okleveles Könyvvizsgálók Intézete",
+  "textSource": "Az Európai Unió Tanácsa (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
   "legend1": "Nincsenek elérhető adatok",
-  "customUnitLabel": "€/fő/hónap",
-  "tooltipExtraInfoLabel": "Kattintson ide"
+  "tooltipExtraInfoLabel": "Kattintson ide",
+  "customUnitLabel": "€/fő/hónap"
 }

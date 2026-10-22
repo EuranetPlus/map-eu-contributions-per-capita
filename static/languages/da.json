@@ -1,12 +1,12 @@
 {
-  "title": "Hvor høje er bidragene til EU-budgettet i 2024?",
-  "subtitle": "Fra 2024 er det månedlige gennemsnitlige bidrag til EU's budget så højt som 25,40 € pr. person.",
+  "title": "Hvor høje er bidragene til EU-budgettet i 2025?",
+  "subtitle": "I 2025 var EU-landenes budgetbidrag i gennemsnit 28,54 € pr. person pr. måned.",
   "textNoteDescription": "Note",
-  "textNote": "Den Europæiske Unions budget for kalenderåret 2024 beløber sig til 143 milliarder euro. En stærk økonomi og en lavere samlet befolkning fører til et højt bidrag pr. person pr. måned.",
+  "textNote": "Tallene viser det månedlige bruttobidrag til EU-budgettet pr. indbygger, beregnet ud fra det endelige ændrede EU-budget for 2025 og Eurostats befolkningstal pr. 1. januar 2025.",
   "textSourceDescription": "Kilde",
-  "textSource": "Instituttet for Registrerede Revisorer i England og Wales",
+  "textSource": "EU-Rådet (2026)",
   "linkDataAccessDescription": "Få adgang til dataene",
   "legend1": "Ingen data tilgængelige",
-  "customUnitLabel": "€ pr. person pr. måned",
-  "tooltipExtraInfoLabel": "Klik her"
+  "tooltipExtraInfoLabel": "Klik her",
+  "customUnitLabel": "€ pr. person pr. måned"
 }

@@ -1,12 +1,12 @@
 {
-  "title": "Kui suured on sissemaksed ELi eelarvesse 2024. aastal?",
-  "subtitle": "2024. aasta seisuga on keskmine igakuine sissemakse ELi eelarvesse koguni 25,40 eurot inimese kohta.",
+  "title": "Kui suured on sissemaksed ELi eelarvesse 2025. aastal?",
+  "subtitle": "2025. aastal olid ELi riikide eelarvemaksed keskmiselt 28,54 eurot inimese kohta kuus.",
   "textNoteDescription": "Märkus",
-  "textNote": "Euroopa Liidu 2024. kalendriaasta eelarve on 143 miljardit eurot. Tugev majandus ja väiksem rahvaarv toovad kaasa suure igakuise sissemakse inimese kohta.",
+  "textNote": "Arvud näitavad ELi igakuist brutopanust elaniku kohta, mis on arvutatud ELi 2025. aasta lõpliku muudetud eelarve ja Eurostati rahvastikuandmete põhjal 1. jaanuari 2025. aasta seisuga.",
   "textSourceDescription": "Allikas",
-  "textSource": "Inglismaa ja Walesi diplomeeritud raamatupidajate instituut",
+  "textSource": "Euroopa Liidu Nõukogu (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
   "legend1": "Andmed pole saadaval",
-  "customUnitLabel": "€ inimese kohta kuus",
-  "tooltipExtraInfoLabel": "Kliki siia"
+  "tooltipExtraInfoLabel": "Kliki siia",
+  "customUnitLabel": "€ inimese kohta kuus"
 }

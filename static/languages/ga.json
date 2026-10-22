@@ -1,12 +1,12 @@
 {
-  "title": "Cé chomh hard is atá na ranníocaíochtaí chuig buiséad an AE in 2024?",
-  "subtitle": "Ó 2024 i leith, is é €25.40 an ranníocaíocht mhíosúil ar an meán chuig buiséad an AE in aghaidh an duine.",
+  "title": "Cé chomh hard is atá na ranníocaíochtaí chuig buiséad an AE in 2025?",
+  "subtitle": "Sa bhliain 2025, b'ionann ranníocaíochtaí buiséid thíortha an AE agus €28.54 in aghaidh an duine in aghaidh na míosa ar an meán.",
   "textNoteDescription": "Nóta",
-  "textNote": "Is ionann Buiséad an Aontais Eorpaigh don bhliain féilire 2024 agus €143 billiún. Mar thoradh ar gheilleagar láidir agus daonra iomlán níos ísle, bíonn ranníocaíocht ard in aghaidh an duine in aghaidh na míosa.",
+  "textNote": "Léiríonn na figiúirí an ranníocaíocht chomhlán mhíosúil ó bhuiséad an AE in aghaidh an áitritheora, arna ríomh ag baint úsáide as buiséad leasaithe deiridh an AE do 2025 agus figiúirí daonra Eurostat amhail an 1 Eanáir 2025.",
   "textSourceDescription": "Foinse",
-  "textSource": "Institiúid na gCuntasóirí Cairte i Sasana agus sa Bhreatain Bheag",
+  "textSource": "Comhairle an AE (2026)",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
-  "customUnitLabel": "€ in aghaidh an duine in aghaidh na míosa",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
+  "customUnitLabel": "€ in aghaidh an duine in aghaidh na míosa"
 }

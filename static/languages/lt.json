@@ -1,12 +1,12 @@
 {
-  "title": "Kokio dydžio įmokos į ES biudžetą bus mokamos 2024 m.?",
-  "subtitle": "Nuo 2024 m. vidutinis mėnesinis įnašas į ES biudžetą siekia net 25,40 EUR vienam asmeniui.",
+  "title": "Kokio dydžio bus įmokos į ES biudžetą 2025 m.?",
+  "subtitle": "2025 m. ES šalių įnašai į biudžetą vidutiniškai sudarė 28,54 EUR vienam asmeniui per mėnesį.",
   "textNoteDescription": "Pastaba",
-  "textNote": "Europos Sąjungos 2024 kalendorinių metų biudžetas siekia 143 mlrd. eurų. Stipri ekonomika ir mažesnis bendras gyventojų skaičius lemia dideles mėnesines įmokas vienam asmeniui.",
+  "textNote": "Skaičiai rodo bendrą mėnesinį ES biudžeto įnašą vienam gyventojui, apskaičiuotą naudojant galutinį iš dalies pakeistą 2025 m. ES biudžetą ir Eurostato gyventojų skaičiaus duomenis 2025 m. sausio 1 d. duomenimis.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "Anglijos ir Velso atestuotų buhalterių institutas",
+  "textSource": "ES Taryba (2026 m.)",
   "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "customUnitLabel": "€ vienam asmeniui per mėnesį",
-  "tooltipExtraInfoLabel": "Spustelėkite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
+  "customUnitLabel": "€ vienam asmeniui per mėnesį"
 }

@@ -1,12 +1,12 @@
 {
-  "title": "Wie hoch sind die Beiträge zum EU-Haushalt im Jahr 2024?",
-  "subtitle": "Ab 2024 beträgt der monatliche Durchschnittsbeitrag zum EU-Haushalt sogar 25,40 € pro Person.",
+  "title": "Wie hoch sind die Beiträge zum EU-Haushalt im Jahr 2025?",
+  "subtitle": "Im Jahr 2025 beliefen sich die Budgetbeiträge der EU-Länder im Durchschnitt auf 28,54 € pro Person und Monat.",
   "textNoteDescription": "Notiz",
-  "textNote": "Der Haushalt der Europäischen Union für das Kalenderjahr 2024 beträgt 143 Milliarden Euro. Eine starke Wirtschaft und eine geringere Gesamtbevölkerung führen zu einem hohen monatlichen Beitrag pro Kopf.",
+  "textNote": "Die Zahlen geben den monatlichen Brutto-EU-Haushaltsbeitrag pro Einwohner an, berechnet auf Grundlage des endgültigen geänderten EU-Haushalts für 2025 und der Bevölkerungszahlen von Eurostat zum 1. Januar 2025.",
   "textSourceDescription": "Quelle",
-  "textSource": "Das Institut der Wirtschaftsprüfer in England und Wales",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
+  "textSource": "Rat der EU (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
-  "customUnitLabel": "€ pro Person und Monat",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "tooltipExtraInfoLabel": "klicken Sie hier",
+  "customUnitLabel": "€ pro Person und Monat"
 }

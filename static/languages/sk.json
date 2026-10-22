@@ -1,12 +1,12 @@
 {
-  "title": "Aké vysoké sú príspevky do rozpočtu EÚ v roku 2024?",
-  "subtitle": "Od roku 2024 dosahuje priemerný mesačný príspevok do rozpočtu EÚ až 25,40 € na osobu.",
+  "title": "Aké vysoké sú príspevky do rozpočtu EÚ v roku 2025?",
+  "subtitle": "V roku 2025 boli rozpočtové príspevky krajín EÚ v priemere 28,54 eura na osobu mesačne.",
   "textNoteDescription": "Poznámka",
-  "textNote": "Rozpočet Európskej únie na kalendárny rok 2024 predstavuje 143 miliárd eur. Silná ekonomika a nižší celkový počet obyvateľov vedú k vysokému mesačnému príspevku na osobu.",
+  "textNote": "Údaje zobrazujú hrubý mesačný príspevok do rozpočtu EÚ na obyvateľa, vypočítaný s použitím konečného zmeneného a doplneného rozpočtu EÚ na rok 2025 a údajov Eurostatu o počte obyvateľov k 1. januáru 2025.",
   "textSourceDescription": "Zdroj",
-  "textSource": "Inštitút autorizovaných účtovníkov v Anglicku a Walese",
+  "textSource": "Rada EÚ (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "customUnitLabel": "€ na osobu mesačne",
-  "tooltipExtraInfoLabel": "Kliknite sem"
+  "tooltipExtraInfoLabel": "Kliknite sem",
+  "customUnitLabel": "€ na osobu mesačne"
 }

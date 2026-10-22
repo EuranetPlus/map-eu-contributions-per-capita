@@ -1,12 +1,12 @@
 {
-  "title": "Koliki su doprinosi proračunu EU-a u 2024. godini?",
-  "subtitle": "Od 2024. godine prosječni mjesečni doprinos proračunu EU iznosio je čak 25,40 € po osobi.",
+  "title": "Koliki su doprinosi proračunu EU-a u 2025. godini?",
+  "subtitle": "U 2025. godini, doprinosi zemalja EU-a u proračun iznosili su u prosjeku 28,54 eura po osobi mjesečno.",
   "textNoteDescription": "Bilješka",
-  "textNote": "Proračun Europske unije za kalendarsku godinu 2024. iznosi 143 milijarde eura. Snažno gospodarstvo i manji ukupni broj stanovnika dovode do visokog doprinosa po osobi mjesečno.",
+  "textNote": "Brojke prikazuju mjesečni bruto doprinos proračunu EU po stanovniku, izračunat korištenjem konačnog izmijenjenog proračuna EU za 2025. i podataka Eurostata o stanovništvu od 1. siječnja 2025.",
   "textSourceDescription": "Izvor",
-  "textSource": "Institut ovlaštenih računovođa u Engleskoj i Walesu",
+  "textSource": "Vijeće EU-a (2026.)",
   "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
-  "customUnitLabel": "€ po osobi mjesečno",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
+  "customUnitLabel": "€ po osobi mjesečno"
 }
